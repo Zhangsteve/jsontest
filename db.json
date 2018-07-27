@@ -1,44 +1,14 @@
 {
-  "status": "ok",
-  "newincluded": 30,
-  "data": [
-    {
-      "id": 5707964,
-      "title": "zzzzzz",
-      "pubtime": "2018-07-24 20:50:36",
-      "image": "https:\/\/ofjn5tuqf.qnssl.com\/b21871d5639e589a00b98d5bf01818cd.jpg?imageView2\/2\/w\/224\/h\/224\/format\/jpg",
-      "video":"http:\/\/commondatastorage.googleapis.com\/gtv-videos-bucket\/sample\/BigBuckBunny.mp4",
-      "imgw": 500,
-      "imgh": 500,
-      "iftobuy": 1,
-      "fromsite": "\u4e00\u5206\u7f51",
-      "country": "cn",
-      "mall": "\u4e9a\u9a6c\u900a\u4e2d\u56fd",
-      "cates": [
-        "daily",
-        "electrical"
-      ],
-      "buyurl": "https:\/\/guangdiu.com\/gdurl.php?id=5707964",
-      "dealfeature": "0"
-    },
-    {
-      "id": 5707963,
-      "title": "ccccc",
-      "pubtime": "2018-07-24 20:50:27",
-      "image": "https:\/\/ofjn5tuqf.qnssl.com\/c1da9057ff582bdc9311851ae0a8f9be.jpg?imageView2\/2\/w\/224\/h\/224\/format\/jpg",
-      "video":"http:\/\/commondatastorage.googleapis.com\/gtv-videos-bucket\/sample\/BigBuckBunny.mp4",
-      "imgw": 320,
-      "imgh": 320,
-      "iftobuy": 1,
-      "fromsite": "\u503c\u503c\u503c",
-      "country": "cn",
-      "mall": "\u4eac\u4e1c\u5546\u57ce",
-      "cates": [
-        "food",
-        "stockup"
-      ],
-      "buyurl": "https:\/\/guangdiu.com\/go.php?id=5707963",
-      "dealfeature": "0"
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
