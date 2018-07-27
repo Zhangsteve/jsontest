@@ -7,8 +7,7 @@
       "title": "zzzzzz",
       "pubtime": "2018-07-24 20:50:36",
       "image": "https:\/\/ofjn5tuqf.qnssl.com\/b21871d5639e589a00b98d5bf01818cd.jpg?imageView2\/2\/w\/224\/h\/224\/format\/jpg",
-	  "video":
-	  "http:\/\/commondatastorage.googleapis.com\/gtv-videos-bucket\/sample\/BigBuckBunny.mp4",
+      "video":"http:\/\/commondatastorage.googleapis.com\/gtv-videos-bucket\/sample\/BigBuckBunny.mp4",
       "imgw": 500,
       "imgh": 500,
       "iftobuy": 1,
@@ -27,8 +26,7 @@
       "title": "ccccc",
       "pubtime": "2018-07-24 20:50:27",
       "image": "https:\/\/ofjn5tuqf.qnssl.com\/c1da9057ff582bdc9311851ae0a8f9be.jpg?imageView2\/2\/w\/224\/h\/224\/format\/jpg",
-	  "video":
-	  "http:\/\/commondatastorage.googleapis.com\/gtv-videos-bucket\/sample\/BigBuckBunny.mp4",
+      "video":"http:\/\/commondatastorage.googleapis.com\/gtv-videos-bucket\/sample\/BigBuckBunny.mp4",
       "imgw": 320,
       "imgh": 320,
       "iftobuy": 1,
